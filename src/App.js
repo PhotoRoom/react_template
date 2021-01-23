@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import AddButton from "./Components/AddButton";
 import loadImage from "blueimp-load-image";
